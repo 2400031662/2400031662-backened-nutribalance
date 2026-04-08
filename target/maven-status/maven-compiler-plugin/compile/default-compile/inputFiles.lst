@@ -1,0 +1,16 @@
+D:\2025-2026\FSAD\nutribalance\backend\src\main\java\com\example\app\AppApplication.java
+D:\2025-2026\FSAD\nutribalance\backend\src\main\java\com\example\app\config\CorsConfig.java
+D:\2025-2026\FSAD\nutribalance\backend\src\main\java\com\example\app\config\SpaForwardController.java
+D:\2025-2026\FSAD\nutribalance\backend\src\main\java\com\example\app\controller\AuthController.java
+D:\2025-2026\FSAD\nutribalance\backend\src\main\java\com\example\app\dto\AuthRequest.java
+D:\2025-2026\FSAD\nutribalance\backend\src\main\java\com\example\app\dto\AuthResponse.java
+D:\2025-2026\FSAD\nutribalance\backend\src\main\java\com\example\app\exception\ApiError.java
+D:\2025-2026\FSAD\nutribalance\backend\src\main\java\com\example\app\exception\AuthenticationFailedException.java
+D:\2025-2026\FSAD\nutribalance\backend\src\main\java\com\example\app\exception\GlobalExceptionHandler.java
+D:\2025-2026\FSAD\nutribalance\backend\src\main\java\com\example\app\exception\RegistrationValidationException.java
+D:\2025-2026\FSAD\nutribalance\backend\src\main\java\com\example\app\exception\ResourceNotFoundException.java
+D:\2025-2026\FSAD\nutribalance\backend\src\main\java\com\example\app\model\AppUser.java
+D:\2025-2026\FSAD\nutribalance\backend\src\main\java\com\example\app\model\UserRole.java
+D:\2025-2026\FSAD\nutribalance\backend\src\main\java\com\example\app\repository\AppUserRepository.java
+D:\2025-2026\FSAD\nutribalance\backend\src\main\java\com\example\app\service\AuthService.java
+D:\2025-2026\FSAD\nutribalance\backend\src\main\java\com\example\app\service\impl\AuthServiceImpl.java
