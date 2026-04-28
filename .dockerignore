@@ -1,0 +1,6 @@
+target
+.git
+.env
+.env.*
+spring-boot.out.log
+spring-boot.err.log
